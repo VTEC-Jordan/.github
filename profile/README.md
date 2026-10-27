@@ -1,206 +1,62 @@
-# 🚀 VTEC
+VTEC
 
-### Venture Tech Engineering Consultancy
+Venture Tech Engineering Consultancy
 
-> Senior engineering partner for startups in Jordan & MENA.
+Custom software and consulting for owner-run companies. Based in Amman, working in Jordan first.
 
-VTEC is an Amman-based senior engineering consultancy helping bootstrapped and early-stage founders build VC-ready products.
+VTEC builds the internal systems established companies run on: jobs, bookings, contracts, approvals and reporting. We work with companies that have outgrown spreadsheets, phone calls and WhatsApp groups but don't have an IT department to replace them.
 
-We operate closer to a **fractional CTO + execution team** than a traditional software agency.
+Who we work for
+Established, owner-run companies with roughly 100 to 1,000 staff
+No in-house IT team
+One decision maker: the owner, CEO or general manager
+Jordan first, then Iraq, Saudi Arabia and the Gulf
 
-Our mission is to help startups move beyond fragile prototypes into scalable, production-ready systems capable of surviving real users, investor scrutiny, and operational growth.
+Two kinds of business fit best:
 
----
+Operators: manufacturing, contracting, logistics and distribution
+Customer-facing service businesses: travel, hospitality and retail
+What we do
+Custom software
 
-## 🧠 What We Do
+Systems built around how your company already works, not the other way round. Automation is part of the build, not a separate product. Phase one is scoped and priced in writing before any work starts, including what it leaves out.
 
-### 🏗️ Scalable System Architecture
+Consulting
 
-Designing startup systems that scale beyond MVP stage without collapsing under growth pressure.
+By the hour, or as a small fixed monthly block, for companies that need a straight technical answer rather than a build. The entry point is the workflow audit.
 
-### ⚡ Production-Ready MVP Development
+The workflow audit
 
-Building real products — not throwaway demos or investor-only prototypes.
+We take one workflow, such as call to closed job or enquiry to signed contract, see how it really runs, and hand back a written plan you keep whether or not you hire us to build it.
 
-### ☁️ DevOps & Infrastructure
+You get:
 
-Cloud infrastructure, deployment pipelines, CI/CD, hosting strategy, observability, and operational readiness.
+A map of the workflow today and where it breaks
+Hours lost per week, in your own numbers
+The top three fixes, ranked
+What not to build, and why
+A phase-one scope and what it leaves out
+A sketch of the first screen
+Everything in Arabic and English
 
-### 🤖 Automation & Workflow Engineering
+Fixed price, agreed and paid before we start. Credited against the build if you go ahead.
 
-Reducing operational friction through automation, integrations, and scalable internal systems.
+One workflow per audit. The owner attends the readout.
 
-### 🧩 Technical Leadership
+How to start
+A free 30-minute call
+The workflow audit
+Phase one of the build
 
-Providing senior engineering judgment for founders who cannot yet justify full-time senior hires.
+If a build doesn't make sense for you, we'll say so early.
 
----
+How we build
 
-## 🎯 Who We Help
+Next.js, Postgres (Supabase), Docker, Cloudflare and n8n for workflow automation. We pick the stack per project and keep it boring on purpose.
 
-VTEC primarily works with:
+Contact
+Website: vtec-jo.com
+Email: info@vtec-jo.com
+LinkedIn: https://www.linkedin.com/company/venture-tech-consultancy
 
-* Bootstrapped founders
-* Early-stage startups
-* Technical and non-technical founders
-* Jordanian startups scaling into MENA markets
-
-The biggest challenge most startups face is not just development capacity — it is the absence of strong engineering decision-making early on.
-
-That is the gap VTEC is built to solve.
-
----
-
-## ⚙️ Core Philosophy
-
-Most startups fail technically before they fail commercially.
-
-Weak architecture, rushed development, and short-term engineering decisions create expensive problems later.
-
-VTEC helps founders avoid:
-
-* Fragile MVPs
-* Scalability bottlenecks
-* Infrastructure chaos
-* Uncontrolled technical debt
-* Engineering decisions that block fundraising readiness
-
----
-
-## 🛠️ Areas of Technical Exposure
-
-```txt
-System Architecture
-DevOps & Cloud Infrastructure
-Automation Systems
-API Integrations
-CI/CD Pipelines
-Scalable MVP Engineering
-Technical Product Strategy
-Startup Infrastructure Planning
-Operational Engineering
-```
-
----
-
-## 🌍 Positioning Statement
-
-> VTEC is an Amman-based senior engineering partner for bootstrapped founders, building production-ready MVPs, scalable architectures, and DevOps foundations so Jordanian startups can operate like VC-backable companies.
-
----
-
-## 🔥 Brand Direction
-
-### Tone
-
-* Direct
-* Founder-focused
-* Practical
-* Technically credible
-* No-BS
-
-### Not A
-
-* Generic outsourcing agency
-* Freelancer marketplace
-* Cheap dev shop
-* Robotics/mechanical engineering firm
-
-### Built To Be
-
-* Startup infrastructure partner
-* Engineering-first consultancy
-* Execution-focused CTO layer
-* Senior technical execution team
-
----
-
-## 🧰 Technical Stack & Focus
-
-### Infrastructure & DevOps
-
-* Docker
-* CI/CD Pipelines
-* Cloud Infrastructure
-* Deployment Automation
-* Observability & Monitoring
-
-### Backend & Systems
-
-* REST APIs
-* GraphQL
-* Event-Driven Architectures
-* Webhooks & Integrations
-* Scalable Backend Systems
-
-### Automation & AI Workflows
-
-* n8n
-* Power Automate
-* Zapier
-* Make
-* AI-assisted operational systems
-
-### Product Engineering
-
-* MVP Architecture
-* Startup System Design
-* Technical Product Strategy
-* Scalable Engineering Foundations
-* Infrastructure Planning
-
----
-
-## 🤝 Engagement Model
-
-VTEC works best with startups that need:
-
-* Senior engineering leadership
-* MVP execution
-* Architecture modernization
-* DevOps foundations
-* Technical scaling support
-* Fractional CTO guidance
-
----
-
-## 🚧 Current Focus
-
-Building scalable startup systems for founders who need:
-
-* Faster execution
-* Better technical decisions
-* Investor-ready infrastructure
-* Long-term scalability
-* Strong engineering foundations
-
----
-
-## 📍 Location
-
-**Amman, Jordan**
-Serving startups across Jordan and the wider MENA region.
-
----
-
-## 📫 Contact
-
-```txt
-VTEC — Venture Tech Engineering Consultancy
-Amman, Jordan
-Jordan & MENA Region
-```
-
----
-
-## 🏁 Philosophy
-
-> Startups should not fail because of weak engineering foundations.
-
-VTEC exists to bridge the gap between ambitious founders and senior technical execution.
-
-We help startups build systems that are ready for users, investors, and scale — from day one.
-
----
-
-# Build Beyond Prototype.
+Venture Tech Engineering Consultancy LLC ·
